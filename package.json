@@ -1,0 +1,29 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haichau08182k/project3.git"
+  },
+  "keywords": [
+    "project3"
+  ],
+  "author": "haichau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haichau08182k/project3/issues"
+  },
+  "homepage": "https://github.com/haichau08182k/project3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
